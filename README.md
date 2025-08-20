@@ -65,6 +65,6 @@
 ---
 
 ## 🌐 Connect with Me  
-🔗 [LinkedIn](www.linkedin.com/in/sakthideveloper) | 📬 Email: sakthig1729@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/sakthideveloper/) | 📬 Email: sakthig1729@gmail.com 
 
 ---
