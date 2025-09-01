@@ -49,18 +49,10 @@
   <img src="https://img.shields.io/badge/Blynk-2ECC71?style=for-the-badge&logo=blynk&logoColor=white" />
 </p>
 
-
----
-
-## 📈 GitHub Stats  
-![Sathiyaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-
 ---
 
 ## ✨ My Motto  
 ⚡ *"I love crafting solutions, staying creative, and thriving even when the pressure is on."*
-
 
 ---
 
